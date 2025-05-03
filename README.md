@@ -19,8 +19,7 @@ This Bash script provides a real-time system monitoring dashboard in the termina
 - Bash shell environment.
 
 ---
-
-1. **Clone the repository**:
+ **Clone the repository**:
 ```bash
 git clone https://github.com/Ashish-j0511/System-Monitoring-.git
 
