@@ -20,13 +20,13 @@ This Bash script provides a real-time system monitoring dashboard in the termina
 
 ---
  **Clone the repository**:
-```bash
-git clone https://github.com/Ashish-j0511/System-Monitoring-.git```
+```
+git clone https://github.com/Ashish-j0511/System-Monitoring-.git
 
 ### 🧪 Usage Examples :
 ** Make the script executable **
-```
-chmod +x Monitorind_System_Dashboard.sh ```
+
+chmod +x Monitorind_System_Dashboard.sh 
 
 ## Run the script:
 
