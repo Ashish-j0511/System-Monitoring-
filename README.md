@@ -18,7 +18,7 @@ This Bash script provides a real-time system monitoring dashboard in the termina
 - VirtualBox with Ubuntu/Oracle OS installed.
 - Bash shell environment.
 
-
+#INSTALLATION
  **Clone the repository**:
 ```
 git clone https://github.com/Ashish-j0511/System-Monitoring-Dashboard.git
