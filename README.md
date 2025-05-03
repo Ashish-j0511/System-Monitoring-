@@ -25,16 +25,16 @@ git clone https://github.com/Ashish-j0511/System-Monitoring-.git```
 
 ### 🧪 Usage Examples :
 ** Make the script executable **
-```bash
+```
 chmod +x Monitorind_System_Dashboard.sh ```
 
 ## Run the script:
-```bash
-./Monitorind_System_Dashboard.sh```
+
+./Monitorind_System_Dashboard.sh
 
 Run the script with the desired switch:
-```bash
+
 ./Monitorind_System_Dashboard.sh -cpu
-./Monitorind_System_Dashboard.sh -memory
+./Monitorind_System_Dashboard.sh -memory ```
 
 
