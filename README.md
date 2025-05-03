@@ -25,7 +25,7 @@ cd System-Monitoring-Dashboard
 ```
 
 
-** Make the script executable **
+**Make the script executable**
 ```
 chmod +x Monitorind_System_Dashboard.sh 
 ```
@@ -35,7 +35,7 @@ chmod +x Monitorind_System_Dashboard.sh
 ./Monitorind_System_Dashboard.sh
 ```
 
-** Run the script with the desired switch: **
+**Run the script with the desired switch:**
 ```
 ./Monitorind_System_Dashboard.sh -cpu
 ./Monitorind_System_Dashboard.sh -memory ```
