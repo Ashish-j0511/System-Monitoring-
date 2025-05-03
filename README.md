@@ -18,23 +18,25 @@ This Bash script provides a real-time system monitoring dashboard in the termina
 - VirtualBox with Ubuntu/Oracle OS installed.
 - Bash shell environment.
 
----
+
  **Clone the repository**:
 ```
-git clone https://github.com/Ashish-j0511/System-Monitoring-.git
+git clone https://github.com/Ashish-j0511/System-Monitoring-Dashboard.git
+cd System-Monitoring-Dashboard
+```
 
-### 🧪 Usage Examples :
-** Make the script executable **
-
+## 🧪 Usage Examples :
+```** Make the script executable **
 chmod +x Monitorind_System_Dashboard.sh 
-
+```
 ## Run the script:
-
+```
 ./Monitorind_System_Dashboard.sh
+```
 
-Run the script with the desired switch:
-
+##Run the script with the desired switch:
+```
 ./Monitorind_System_Dashboard.sh -cpu
 ./Monitorind_System_Dashboard.sh -memory ```
-
+```
 
