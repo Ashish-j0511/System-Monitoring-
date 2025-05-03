@@ -40,4 +40,7 @@ chmod +x Monitorind_System_Dashboard.sh
 ./Monitorind_System_Dashboard.sh -cpu
 ./Monitorind_System_Dashboard.sh -memory 
 ```
+## OUTPUTS
+![Image](https://github.com/user-attachments/assets/bcd0bdc5-2032-435f-b1fd-45e94ae7b597)
 
+![Image](https://github.com/user-attachments/assets/fdcba589-df8d-4010-9966-aa4c04425d30)
