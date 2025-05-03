@@ -38,6 +38,6 @@ chmod +x Monitorind_System_Dashboard.sh
 **Run the script with the desired switch:**
 ```
 ./Monitorind_System_Dashboard.sh -cpu
-./Monitorind_System_Dashboard.sh -memory ```
+./Monitorind_System_Dashboard.sh -memory 
 ```
 
