@@ -21,16 +21,16 @@ This Bash script provides a real-time system monitoring dashboard in the termina
 ---
  **Clone the repository**:
 ```bash
-git clone https://github.com/Ashish-j0511/System-Monitoring-.git
+git clone https://github.com/Ashish-j0511/System-Monitoring-.git```
 
 ### 🧪 Usage Examples :
-## Make the script executable :
+** Make the script executable **
 ```bash
-chmod +x Monitorind_System_Dashboard.sh 
+chmod +x Monitorind_System_Dashboard.sh ```
 
 ## Run the script:
 ```bash
-./Monitorind_System_Dashboard.sh
+./Monitorind_System_Dashboard.sh```
 
 Run the script with the desired switch:
 ```bash
