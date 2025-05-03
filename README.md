@@ -26,7 +26,8 @@ cd System-Monitoring-Dashboard
 ```
 
 ## 🧪 Usage Examples :
-```** Make the script executable **
+** Make the script executable **
+```
 chmod +x Monitorind_System_Dashboard.sh 
 ```
 ## Run the script:
