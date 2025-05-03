@@ -30,7 +30,7 @@ cd System-Monitoring-Dashboard
 chmod +x Monitorind_System_Dashboard.sh 
 ```
 ## 🧪 Usage Examples :
-** Run the script:**
+**Run the script:**
 ```
 ./Monitorind_System_Dashboard.sh
 ```
